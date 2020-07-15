@@ -1,10 +1,10 @@
 ---
-title: Section 1.2
-parent: Section 1 Title Here 
-has_children: true
-nav_order: 1
+title: Ideation discovery session
+parent: The first 6 weeks
+has_children: false
+nav_order: 2
 ---
 
-# Subsection of section 1
+# Checklist and instructions for Ideation Discovery Session
 
-Sub section of section 1
+Stay tuned for more instructions to come in Week 3/4

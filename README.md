@@ -1,4 +1,10 @@
-### Hi there 👋
+---
+title: Introduction
+has_children: false
+nav_order: 1
+---
+
+### Welcome to the AIAP Startup Program! 👋
 
 <!--
 **johnangrs/johnangrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is draft text waiting for startup content to come in
+The AIAP Startup Program is a track within the AIAP program that encourages and supports apprentices in developing an AI-related minimum viable product (MVP) during AIAP in order to spin-off a company and to secure seed investment.
+
+This site is currently acting as a staging area for AIAP Startup Program content. Please note that content may move, disappear or change without prior notice as it moves from staging to production. 
+
+Please feel free to contact me at john.ang@aisingapore.org for any questions, thoughts or comments.
