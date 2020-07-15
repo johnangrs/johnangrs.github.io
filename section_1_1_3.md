@@ -6,6 +6,8 @@ has_children: false
 nav_order: 3
 ---
 
+## Is anyone ever really ready?
+  
 Why did you click this link? Was it some element of self-doubt? Perhaps after reading through the earlier sections, you're feeling a little overwhelmed and are casting about for a little something extra to grab onto. (Or maybe you are just conscientious and methodical and you're now scoffing at my attempts to inject some drama into this prose)
 
 This page contains a few parting words from Paul Graham for founders embarking on their startup journey. His message - nobody should feel uncomfortable that they don't 'get' the startup process, because the whole thing is counterintuitive on so many levels:

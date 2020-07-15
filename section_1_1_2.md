@@ -6,7 +6,7 @@ has_children: false
 nav_order: 2
 ---
 
-# Romantic reasons to start a company
+## Romantic reasons to start a company
 
 1. It is glamorous
 2. You get to be the boss
@@ -23,7 +23,7 @@ While we wish for everyone to enjoy bountiful amounts of the above points, for e
 
 4. You can't get away, close shop and resign halfway in (what would happen to all of your employees, who are probably also your friends?)
 
-# The only three reasons to start a company (you must have all of them)
+## The only three reasons to start a company (you must have all of them)
 
 So, what are the only things that will make all the terrible sounding items worth it in the end?
 

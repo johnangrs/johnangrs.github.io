@@ -6,8 +6,8 @@ has_children: false
 nav_order: 1
 ---
 
-### The very first thing\
-
+## The very first thing
+  
 What is a fantastic idea? How do you know one when you see it?
 
 You may be thinking that the initial idea of a startup doesn't matter much, after all, doesn't the sage advice go "just start", then "fail fast" and pivot even faster?
@@ -28,8 +28,8 @@ So. You need an idea. What should an idea consist of?
 
 5. It should understand where it wants to be in 10 years
 
-### Passing the sniff test
-
+## Passing the sniff test
+  
 There one key insight that most first-time founders miss when then coming up with their idea:
 
 **A fantastic idea must seem like a bad idea to some people**. 
