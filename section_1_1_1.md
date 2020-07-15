@@ -30,13 +30,13 @@ So. You need an idea. What should an idea consist of?
 
 ## Passing the sniff test
   
-There one key insight that most first-time founders miss when then coming up with their idea:
+There is one key insight that most first-time founders miss when then coming up with their idea:
 
 **A fantastic idea must seem like a bad idea to some people**. 
 
 If it sounds like a great idea to everyone, then too many of the smartest people will be working on them, and you don't want that competition. 
 
-Consider that Google was the 13th search engine in line (with no portal), and that Facebook was the 10th social network (and only limited to US college students), and that AirB&B was an alternative to couch surfing, except that you had to pay, and that Carousell is essentially a jazzed up Craigslist... the list goes on and on
+Consider that Google was the 13th search engine to be created (and with no attached portal like Yahoo!), and that Facebook was the 10th social network (and only limited to US college students), and that AirB&B was an alternative to couch surfing, except that you had to pay, and that Carousell is essentially a jazzed up Craigslist... the list goes on and on.
 
-So your idea passes the sniff test if people tell you its a bad idea, but in your **heart** you can explain why it is a good one a thousand times over (this also signals the depth of your passion for the subject, which is also very important, but more on that later). Unpopular with the masses but right for a subset of people is what you are going for. Imagine what Google's, Facebook, AirB&B and Carousell v0.1 pitch must have sounded like - you want something that sounds like a bad idea, but is a good idea.
+So your idea passes the sniff test if people tell you its a bad idea, but in your **heart** you can explain why it is a good one a thousand times over (this also signals the depth of your passion for the subject, which is also very important, but more on that later). Unpopular with the masses but right for a subset of people is what you are going for. Imagine what Google's, Facebook, AirB&B and Carousell v0.1 pitch must have sounded like - you want something that sounds like a bad idea, but is actually a good idea.
 
