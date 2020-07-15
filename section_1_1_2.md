@@ -21,7 +21,7 @@ While we wish for everyone to enjoy bountiful amounts of the above points, for e
 
 3. Work from 7am to 2am
 
-4. You can't get away, close shop and resign halfway in (what would happen to all of your employees, who are probably also your friends?)
+4. Being unable to get away, take a holiday or resign halfway in
 
 ## The only three reasons to start a company (you must have all of them)
 
