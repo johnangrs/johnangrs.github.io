@@ -1,9 +1,3 @@
----
-title: Introduction
-has_children: false
-nav_order: 1
----
-
 ### Welcome to the AIAP Startup Program! 👋
 
 <!--
@@ -19,6 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+---
+title: Introduction
+has_children: false
+nav_order: 1
+---
 -->
 
 The AIAP Startup Program is a track within the AIAP program that encourages and supports apprentices in developing an AI-related minimum viable product (MVP) during AIAP in order to spin-off a company and to secure seed investment.
