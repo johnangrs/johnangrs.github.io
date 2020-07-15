@@ -5,7 +5,7 @@ has_children: true
 nav_order: 1
 ---
 
-### 4 key ingredients for startup success
+### 4 key ingredients for startup success\
 
 To build a great company, there are 4 essential ingredients that a startup absolutely must have. They are
 

@@ -1,11 +1,12 @@
 ---
 title: Idea generation
 parent: Foundations
+grand_parent: The first 6 weeks
 has_children: false
 nav_order: 1
 ---
 
-### The very first thing
+### The very first thing\
 
 What is a fantastic idea? How do you know one when you see it?
 

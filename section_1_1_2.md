@@ -1,6 +1,7 @@
 ---
 title: Are you ready?
 parent: Foundations
+grand_parent: The first 6 weeks
 has_children: false
 nav_order: 2
 ---
