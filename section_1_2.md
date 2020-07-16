@@ -5,6 +5,6 @@ has_children: false
 nav_order: 2
 ---
 
-# Checklist and instructions for Ideation Discovery Session
+## Checklist and instructions for Ideation Discovery Session
 
 Stay tuned for more instructions to come in Week 3/4

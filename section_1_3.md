@@ -5,7 +5,7 @@ has_children: false
 nav_order: 3
 ---
 
-Content to be updated including
+**Content to be updated including**
 
 1. Building a product, talking to users and growing
 2. How to build a monopoly by niching down twice
