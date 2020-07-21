@@ -15,24 +15,24 @@ Organizations and teams tend to make 3 main mistakes when identifying AI use cas
 
 3. No confirmation of data availability or granularity - Many business and management teams begin ideating AI use cases before checking data availability or granularity, which usually lies with the IT team. More often than not, the IT team will inform the business units that they have not been saving the data, or that the wrong data is being saved for the purpose of the AI use case.
 
-In order to avoid these mistakes, we have adapted the Design Sprint from Google Ventures. [SHOW PICTURES AND GIVE LINK SUPERSCRIPT]. The design sprint has proven to be a great structured process for solving problems and testing new ideas, and it has been adopted by organizations worldwide, from Red Hat to Accenture. 
+In order to avoid these mistakes, we have adapted the Design Sprint from Google Ventures. The design sprint has proven to be a great structured process for solving problems and testing new ideas, and it has been adopted by organizations worldwide, from Red Hat to Accenture. 
 
 In a standard design sprint, we map, storyboard and prototype over the course of 5 days. For the AI Ideation discovery, we only focus on the *mapping* portion, which is why we can slim it down to 1.5 hours.
 
 The remainder of the design sprint is mapped to the AI Prioritization session and AI Solution Modelling, which we will go through individually with you if your idea makes it past the selection stage.
 
-[INSERT PICTURE]
+![Design Sprint]("https://github.com/johnangrs/johnangrs.github.io/blob/master/assets/design_sprint.png")
 
 ## What will happen during the 1.5 hours?
 1. Each participant will take turns to share their challenges and ideas in the context of the industry. (Picture below shows how we do it in a corporate setting for reference)
 
-[INSERT PICTURE]
+![How might we]("https://github.com/johnangrs/johnangrs.github.io/blob/master/assets/how_might_we.png")
 
 2. The facilitator will group the ideas into categories.
 
 3. Participants will vote on what they think are the top 2 ideas presented.
 
-[INSERT PICTURE]
+![Voting on opportunites]("https://github.com/johnangrs/johnangrs.github.io/blob/master/assets/voting_on_opportunities.png")
 
 4. Ideas that have less than two votes will be removed (this does not mean they are bad!).
 
