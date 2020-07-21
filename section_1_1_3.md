@@ -26,4 +26,4 @@ To summarize, as a startup founder, you have to get comfortable with being uncom
 
 That said, from all the startup founders here at AISG, we would all have done it again given the choice. 
 
-Good reading material at this stage - [How to get startup idea - Paul Graham](http://www.paulgraham.com/startupideas.html "How to get startup idea - Paul Graham") 
+Good reading material at this stage - [How to get startup ideas - Paul Graham](http://www.paulgraham.com/startupideas.html) 
