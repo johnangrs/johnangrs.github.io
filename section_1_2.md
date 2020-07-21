@@ -21,18 +21,18 @@ In a standard design sprint, we map, storyboard and prototype over the course of
 
 The remainder of the design sprint is mapped to the AI Prioritization session and AI Solution Modelling, which we will go through individually with you if your idea makes it past the selection stage.
 
-![Design Sprint]("https://github.com/johnangrs/johnangrs.github.io/blob/master/assets/design_sprint.png")
+![Design Sprint](https://github.com/johnangrs/johnangrs.github.io/blob/master/assets/design_sprint.png?raw=true)
 
 ## What will happen during the 1.5 hours?
 1. Each participant will take turns to share their challenges and ideas in the context of the industry. (Picture below shows how we do it in a corporate setting for reference)
 
-![How might we]("https://github.com/johnangrs/johnangrs.github.io/blob/master/assets/how_might_we.png")
+![How might we](https://github.com/johnangrs/johnangrs.github.io/blob/master/assets/how_might_we.png?raw=true)
 
 2. The facilitator will group the ideas into categories.
 
 3. Participants will vote on what they think are the top 2 ideas presented.
 
-![Voting on opportunites]("https://github.com/johnangrs/johnangrs.github.io/blob/master/assets/voting_on_opportunities.png")
+![Voting on opportunites](https://github.com/johnangrs/johnangrs.github.io/blob/master/assets/voting_on_opportunities.png?raw=true)
 
 4. Ideas that have less than two votes will be removed (this does not mean they are bad!).
 
