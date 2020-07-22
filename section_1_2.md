@@ -17,7 +17,7 @@ Organizations and teams tend to make 3 main mistakes when identifying AI use cas
 
 In order to avoid these mistakes, we have adapted the Design Sprint from Google Ventures. The design sprint has proven to be a great structured process for solving problems and testing new ideas, and it has been adopted by organizations worldwide, from Red Hat to Accenture. 
 
-In a standard design sprint, we map, storyboard and prototype over the course of 5 days. For the AI Ideation discovery, we only focus on the *mapping* portion, which is why we can slim it down to 1.5 hours.
+In a standard design sprint, we map, storyboard and prototype over the course of 4 days. For the AI Ideation discovery, we only focus on the *mapping* portion, which is why we can slim it down to 1.5 hours.
 
 The remainder of the design sprint is mapped to the AI Prioritization session and AI Solution Modelling, which we will go through individually with you if your idea makes it past the selection stage.
 
@@ -37,6 +37,8 @@ The remainder of the design sprint is mapped to the AI Prioritization session an
 4. Ideas that have less than two votes will be removed (this does not mean they are bad!).
 
 5. The facilitator will guide all participants in a white space exploration and goal definition for the top voted ideas.
+
+![Search for inspiration](https://github.com/johnangrs/johnangrs.github.io/blob/master/assets/search_for_inspiration.jpeg?raw=true)
 
 6. At the end of the session, we encourage teams to form around the idea owner. NOTE: There can only be one team per idea, and idea owner chooses his final 1-2 teammates. If you are lucky enough to have a very popular idea, this will be your first management test ;)
 
