@@ -49,7 +49,7 @@ The remainder of the design sprint is mapped to the AI Prioritization session an
 
 You only need to do two things to prep
 
-- Fill in the sign-up [form - Note: fixing link, will update later tonight](ttps://)
+- Fill in the sign-up [form](https://forms.gle/bpWSa9uvEFEPJrZs6)
 - Come with an open mind!
 
 *Some additional links and reading materials around the design sprint and discovery sessions*
