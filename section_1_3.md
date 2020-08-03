@@ -1,7 +1,7 @@
 ---
 title: Planning your MVP
 parent: The first 6 weeks
-has_children: false
+has_children: true
 nav_order: 3
 ---
 
