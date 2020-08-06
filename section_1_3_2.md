@@ -20,7 +20,7 @@ Second is the question of discoverability. If you rush to scale into a big marke
 
 Third is the question of competition. The big boys in tech are servicing the mainstream customers in the big markets, and trying to scale into these markets will bring you into direct competition with the Googles, Facebooks and Amazons of the world. This is scary for any team, much less a three-man early stage startup. 
 
-So, is it any wonder that [Startup Genome found 74 percent of high-growth startups fail due to premature scaling?](https://www.entrepreneur.com/article/318591). 
+So, is it any wonder that [Startup Genome found 74 percent of high-growth startups fail due to premature scaling?](https://www.entrepreneur.com/article/318591)
 
 ### Why you should go after a small market
 
