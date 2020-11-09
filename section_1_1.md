@@ -14,10 +14,10 @@ To build a great company, there are 4 essential ingredients that a startup absol
 3. Fantastic team
 4. Fantastic execution
 
-The content here will cover just the first one on the list in the first ten weeks. Without a fantastic idea as the foundation, energy spent on the rest of the items will be sadly wasted.
+The content in this companion guide will cover just the first one on the list in the first ten weeks. Without a fantastic idea as the foundation, energy spent on the rest of the items will be sadly wasted.
 
 When you register your interest with us, we will begin the process of helping you find a good co-founder, which is a sub element of building a fantastic team.
 
-Finally, when you get through the selection process, we will begin working with you on the rest of the items over the next 7 months.
+Finally, when you get through the selection process, we will begin working with you on building fantastic products and executing well over the next 7 months.
 
 Good luck, and we look forward to having you on the startup track!
