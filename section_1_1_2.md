@@ -1,10 +1,12 @@
 ---
 title: Are you ready?
 parent: Foundations
-grand_parent: The first 6 weeks
+grand_parent: The first 10 weeks
 has_children: false
 nav_order: 2
 ---
+
+So you want to start a company!
 
 ## Romantic reasons to start a company
 
@@ -13,24 +15,10 @@ nav_order: 2
 3. You set your own schedule
 4. You get be rich and famous
 
-The cold reality however, is that for every minute that you get to savor the above, you will have experienced hours and hours of:
+## The real three reasons to start a company (only start if you see all of them)
 
-1. Staring at your computer screen trying to do sales and solve engineering problems at the same time
-
-2. Trying to figure out how to tell your friend that you can't pay his salary on time
-
-3. Work from 7am to 2am
-
-4. Being unable to get away, take a holiday or resign halfway in
-
-## The only three reasons to start a company (you must have all of them)
-
-So, what are the only things that will make all the terrible sounding items worth it in the end?
-
-First and foremost, it has to be something you are passionate about. It is a cause that you would wake up unbidden on Saturday mornings to do. It is a space that you can't help but gravitate to over and over again in the course of your life. 
-
-Second, the world must need it. Before the iPhone, there was the Palm Pilot, and the Apple Newton. As the traders in financial markets like to say - being early is the same as being wrong.
-
-Finally, why does your corner of the world need you to do this specific thing *now*?
+1. It has to be something you are passionate about. It is a space that you can't help but gravitate to over and over again in the course of your life. 
+2. Your corner of the world must need it - there must be a market sizeable enough to support your product.
+3. Your corner of the world must need it *today*.
 
 If you have a fantastic idea, and you meet these three criteria, you are in the sweet spot to launch a startup. 
