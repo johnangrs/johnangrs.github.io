@@ -1,7 +1,7 @@
 ---
 title: Get your monopoly. Niche down twice.
 parent: Planning your MVP
-grand_parent: The first ten weeks
+grand_parent: The first 10 weeks
 has_children: false
 nav_order: 2
 ---
