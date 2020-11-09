@@ -1,7 +1,7 @@
 ---
 title: Building your product and talking to users
 parent: Planning your MVP
-grand_parent: The first 6 weeks
+grand_parent: The first ten weeks
 has_children: false
 nav_order: 1
 ---
