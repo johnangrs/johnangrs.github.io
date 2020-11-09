@@ -1,6 +1,6 @@
 ---
 title: Ideation discovery session
-parent: The first 6 weeks
+parent: The first six weeks
 has_children: false
 nav_order: 2
 ---
