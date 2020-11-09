@@ -13,7 +13,7 @@ nav_order: 2
 3. You set your own schedule
 4. You get be rich and famous
 
-While we wish for everyone to enjoy bountiful amounts of the above points, for every minute that you get to savor the above, you will have experienced hours and hours of
+The cold reality however, is that for every minute that you get to savor the above, you will have experienced hours and hours of:
 
 1. Staring at your computer screen trying to do sales and solve engineering problems at the same time
 
