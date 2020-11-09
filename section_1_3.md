@@ -2,7 +2,7 @@
 title: Planning your MVP
 parent: The first ten weeks
 has_children: true
-nav_order: 3
+nav_order: 2
 ---
 
 This section covers the topics of:
