@@ -1,5 +1,5 @@
 ---
-title: The first ten weeks
+title: The first 10 weeks
 has_children: true
 nav_order: 1
 ---
