@@ -6,11 +6,9 @@ nav_order: 4
 
 ### Why is the AIAP Startup Program a great place to launch an AI startup?
 
-The AIAP Startup Program is designed to be as "low risk" and "high support" as possible. In addition to the AIAP stipend, which every AIAP participant gets, AISG compute resources, data scientists, AI engineers and industry mentors will be made available in service of your idea as part of the support mechanism provided.   
+The AIAP Startup Program is designed as a "low risk, high support" program. In addition to the AIAP stipend, which every AIAP participant gets, AISG compute resources, data scientists, AI engineers and industry mentors will be made available in service of your idea as part of the support mechanism provided.   
 
 ### How similar/different is this program to other accelerator programs in Singapore?
-
-Most accelerator programs last for ~6 months. The AISG Startup Program lasts for up to 15 months.
 
 Most accelerator programs are profit / valuation driven. The AISG Startup Program focuses on building sustainable businesses that make a difference in our lives and create jobs for Singaporeans.
 
@@ -26,8 +24,6 @@ However, the author's opinion is that CS183b is superior because it brings toget
 
 If you are super passionate about startups, you should absolutely go through all of CS183b, and read Zero to One while you are at it too. 
 
-However, because you will be strapped for time during the deep-skilling period of AIAP, we have gone ahead and boiled CS183b down to its core essences, and put in time release holds on the relevant elements so that they only surface at the appropriate time.
-
 ### I have more questions! What should I do?
 
-Feel free to contact Kevin Lee or John Ang on Google chat anytime, or come to our office hours (3pm-5pm on Friday afternoons) our door is always open!
+Feel free to contact Kevin Lee or John Ang on Google chat anytime :)
