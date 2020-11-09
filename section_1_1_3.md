@@ -1,12 +1,12 @@
 ---
-title: Are you really ready?
+title: Parting words
 parent: Foundations
-grand_parent: The first 6 weeks
+grand_parent: The first ten weeks
 has_children: false
 nav_order: 3
 ---
 
-## Is anyone ever really ready?
+## Think you're not ready yet? Don't worry, nobody is every really ready.
 
 This page contains a few parting words from Paul Graham for founders embarking on their startup journey. His message - nobody should feel uncomfortable that they don't 'get' the startup process, because the whole thing is counterintuitive on so many levels:
 
