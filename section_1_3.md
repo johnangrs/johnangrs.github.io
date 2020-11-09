@@ -1,11 +1,11 @@
 ---
 title: Planning your MVP
-parent: The first 6 weeks
+parent: The first ten weeks
 has_children: true
 nav_order: 3
 ---
 
-**Content to be updated including**
+This section covers the topics of:
 
 1. Building a product, talking to users and growing
 2. How to build a monopoly by niching down twice
