@@ -23,6 +23,6 @@ nav_order: 1
 
 The AIAP Startup Program is a track within the AIAP program that encourages and supports apprentices in developing an AI-related minimum viable product (MVP) during AIAP in order to spin-off a company and to secure seed investment.
 
-This site is currently acting as a staging area for AIAP Startup Program content. Please note that content may move, disappear or change without prior notice as it moves from staging to production. 
+This site is currently acting as a living document for AIAP Startup Program content. Please note that content may move, disappear or change without prior notice.
 
 Please feel free to contact me at john.ang@aisingapore.org for any questions, thoughts or comments.
