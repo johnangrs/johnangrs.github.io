@@ -1,6 +1,6 @@
 ---
 title: Planning your MVP
-parent: The first ten weeks
+parent: The first 10 weeks
 has_children: true
 nav_order: 2
 ---
