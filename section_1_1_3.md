@@ -1,7 +1,7 @@
 ---
 title: Parting words
 parent: Foundations
-grand_parent: The first ten weeks
+grand_parent: The first 10 weeks
 has_children: false
 nav_order: 3
 ---
