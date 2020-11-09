@@ -1,10 +1,10 @@
 ---
-title: The first 6 weeks
+title: The first ten weeks
 has_children: true
 nav_order: 1
 ---
 
-## In the first ten weeks, we will cover
+## In the first ten weeks, we will cover in this companion guide and in follow up events
 
 1. Elements of [Y Combinator's Stanford CS183b: How to Start a Startup lecture series](https://www.youtube.com/playlist?list=PL11qn6zM2Y3bMZdChxEqHKaCaKUjwItGL "Y Combinator's Stanford CS183b: How to Start a Startup lecture series") that we find to be very good advice for idea generation, market analysis, team selection and determining your level of readiness.
 
